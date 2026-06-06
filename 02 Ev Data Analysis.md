@@ -26,7 +26,7 @@ This section covers what our survey of 51 respondents revealed in March 2024, wi
 | 55+       | 1     | 2.0%       |
 | Others    | 12    | 23.5%      |
 
-![Age Distribution](image 1.png)
+!(image 1.png)
 
 **Observation:** The sample skews young and urban, which is expected given that the survey was distributed primarily through college networks and online channels. The findings reflect the opinions of educated urban youth more than the general Indian population. This is a limitation — 70% of India is rural, and EV adoption dynamics in rural areas are very different.
 
