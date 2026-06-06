@@ -285,9 +285,8 @@ All secondary data sources are cited in the **References** section of `01_EV_Ris
 ## Quick Links
 
 - [Full Research Document: The Rise of Electric Vehicles in India](01%20Ev%20Rise%20India%20research.md)
-- Survey Data (Google Forms): [Link to survey]
-- VAHAN Dashboard: [Link to VAHAN]
-- EVreporter Intelligence: [Link to EVreporter]
+- VAHAN Dashboard: [https://vahan.parivahan.gov.in/vahan4dashboard/]
+- EVreporter Intelligence: [https://data.evreporter.com]
 
 ---
 
